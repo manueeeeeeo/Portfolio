@@ -11,5 +11,5 @@
 </template>
 
 <script setup>
-// No hay lógica todavía
+
 </script>
